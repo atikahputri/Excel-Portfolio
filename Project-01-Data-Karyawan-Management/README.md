@@ -48,10 +48,12 @@ This project demonstrates how to build a structured and well-organized employee 
 ## 📸 Preview
 
 ### Employee Database
-> *(Add screenshot here)*
+> <img width="1914" height="1010" alt="image" src="https://github.com/user-attachments/assets/d4c5a667-47b0-4bc8-b4e1-3d5d77f053c7" />
+
 
 ### Master Data
-> *(Add screenshot here)*
+> <img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/84e46d36-55e2-4572-bb69-e55c8e518c50" />
+
 
 ---
 
