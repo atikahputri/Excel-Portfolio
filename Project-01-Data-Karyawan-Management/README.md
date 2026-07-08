@@ -1,31 +1,56 @@
-Project 01 - Data Karyawan Management
-Overview
+# 📊 Project 01 - Data Karyawan Management
 
-Membangun database karyawan menggunakan Microsoft Excel yang terstruktur dan mudah dikelola.
+## 📖 Overview
+Membangun database karyawan menggunakan Microsoft Excel yang terstruktur, konsisten, dan mudah dikelola.
 
-Objectives
-Membuat database karyawan
-Mengurangi human error
-Mempersiapkan data untuk analisis
-Dataset
+---
 
-50 Data Dummy Karyawan
+## 🎯 Objectives
+- Membangun database karyawan
+- Mengurangi human error saat input data
+- Mempersiapkan data agar siap dianalisis
 
-Excel Features
-Excel Table
-Data Validation
-Conditional Formatting
-Freeze Panes
-Sort & Filter
-Format Cell
-Output
-Database Karyawan
-Master Data
-Dropdown
-Highlight otomatis berdasarkan kondisi
-Skills
+---
 
-Microsoft Excel
-Data Management
-Data Cleaning
-Documentation
+## 📂 Dataset
+- 50 data dummy karyawan
+- Data meliputi:
+  - ID Karyawan
+  - Nama
+  - Divisi
+  - Jabatan
+  - Tanggal Masuk
+  - Status
+  - Gaji
+
+---
+
+## 🛠 Excel Features
+- Excel Table
+- Sort & Filter
+- Freeze Panes
+- Data Validation
+- Conditional Formatting
+- Format Cell
+
+---
+
+## 📈 Output
+- Database Karyawan
+- Master Data
+- Dropdown Validation
+- Highlight Otomatis Berdasarkan Kondisi
+
+---
+
+## 💡 Skills
+- Microsoft Excel
+- Data Management
+- Data Cleaning
+- Documentation
+
+---
+
+## 📷 Preview
+
+*(Tambahkan screenshot database di sini nanti.)*
