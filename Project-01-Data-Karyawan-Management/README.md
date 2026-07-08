@@ -1,56 +1,59 @@
-# 📊 Project 01 - Data Karyawan Management
+# 📊 Project 01 - Employee Data Management
 
-## 📖 Overview
-Membangun database karyawan menggunakan Microsoft Excel yang terstruktur, konsisten, dan mudah dikelola.
+## 📌 Overview
+This project demonstrates how to build a structured and well-organized employee database using Microsoft Excel. The workbook is designed to improve data consistency, reduce manual errors, and provide a solid foundation for future data analysis.
 
 ---
 
 ## 🎯 Objectives
-- Membangun database karyawan
-- Mengurangi human error saat input data
-- Mempersiapkan data agar siap dianalisis
+- Build a structured employee database.
+- Reduce human errors through data validation.
+- Prepare clean and organized data for analysis.
+- Improve data management efficiency.
 
 ---
 
 ## 📂 Dataset
-- 50 data dummy karyawan
-- Data meliputi:
-  - ID Karyawan
-  - Nama
-  - Divisi
-  - Jabatan
-  - Tanggal Masuk
-  - Status
-  - Gaji
+- 50 Dummy Employee Records
 
 ---
 
-## 🛠 Excel Features
+## 🛠 Excel Features Used
 - Excel Table
-- Sort & Filter
-- Freeze Panes
 - Data Validation
 - Conditional Formatting
-- Format Cell
+- Freeze Panes
+- Sort & Filter
+- Cell Formatting
 
 ---
 
-## 📈 Output
-- Database Karyawan
-- Master Data
-- Dropdown Validation
-- Highlight Otomatis Berdasarkan Kondisi
+## 📋 Output
+- Employee Database
+- Master Data Sheet
+- Dynamic Dropdown Lists
+- Automatic Highlighting Based on Conditions
 
 ---
 
-## 💡 Skills
+## 💡 Skills Demonstrated
 - Microsoft Excel
 - Data Management
 - Data Cleaning
+- Data Validation
 - Documentation
 
 ---
 
-## 📷 Preview
+## 📸 Preview
 
-*(Tambahkan screenshot database di sini nanti.)*
+### Employee Database
+> *(Add screenshot here)*
+
+### Master Data
+> *(Add screenshot here)*
+
+---
+
+## 🚀 Learning Outcomes
+Through this project, I practiced creating a structured Excel database by applying best practices in data management, validation, formatting, and documentation. This project serves as a foundation for future Excel dashboards, reporting, and data analysis projects.
